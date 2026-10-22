@@ -83,6 +83,3 @@ http://127.0.0.1:8008/app/mininet-dashboard/html/index.html
 - Automated mitigation through the Ryu REST API and OpenFlow flow rules
 - SDN emulation and traffic engineering in Mininet (custom topology and bandwidth limits)
 
-## Author
-
-Asif Alif — network security, SDN, and post-quantum cryptography.
